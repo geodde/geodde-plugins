@@ -1,0 +1,15 @@
+{
+  "name": "geodde",
+  "description": "Geodde's plugins for Claude: write pages that get your brand cited by AI assistants.",
+  "owner": {
+    "name": "Geodde",
+    "url": "https://geodde.com"
+  },
+  "plugins": [
+    {
+      "name": "geodde",
+      "source": "./geodde",
+      "description": "The Geodde connector plus the write-geodde-page skill: pick a roadmap topic, write the page, send it to Geodde for review."
+    }
+  ]
+}

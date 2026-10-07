@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "geodde",
+  "version": "1.0.0",
+  "description": "Write pages that get your brand cited by AI assistants, using your Geodde content roadmap. Adds the Geodde connector and the write-geodde-page skill.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Geodde",
+        "category": "Productivity"
+      }
+    }
+  }
+}

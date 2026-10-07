@@ -1,0 +1,20 @@
+{
+  "name": "geodde",
+  "interface": {
+    "displayName": "Geodde"
+  },
+  "plugins": [
+    {
+      "name": "geodde",
+      "source": {
+        "source": "local",
+        "path": "./geodde"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

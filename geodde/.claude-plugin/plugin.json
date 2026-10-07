@@ -1,0 +1,13 @@
+{
+  "name": "geodde",
+  "displayName": "Geodde",
+  "version": "1.0.0",
+  "description": "Write pages that get your brand cited by AI assistants, using your Geodde content roadmap. Adds the Geodde connector and the write-geodde-page skill.",
+  "author": {
+    "name": "Geodde",
+    "url": "https://geodde.com"
+  },
+  "homepage": "https://geodde.com",
+  "license": "MIT",
+  "keywords": ["geo", "ai-search", "content", "seo"]
+}

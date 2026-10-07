@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "geodde": {
+      "type": "http",
+      "url": "https://app.geodde.com/mcp"
+    }
+  }
+}
